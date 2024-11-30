@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Shani Gamage</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p  align="center"> <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="80"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shanigamage" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shanigamage&label=Profile%20views&color=0e75b6&style=flat" alt="shanigamage" /> </p>
 
 ---
 
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="80" />
 
-- 🏫 Undergraduate **@UCSC**
+- 🎓 Undergraduate **@UCSC**
 
 - 🌱 I’m currently learning **Java**
 
@@ -16,6 +16,8 @@
 - 📫 Feel free to reach me out **shaninehansa716@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+- 😉 I love **Travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
